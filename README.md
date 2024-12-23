@@ -40,7 +40,7 @@ I’m a **Software Developer** passionate about building sleek, user-friendly we
 ### 🛠️ **Technologies & Skills**
 
 #### **Languages**  
-- **JavaScript (ES6+)** | **TypeScript** | **Python**
+- **JavaScript (ES6+)** | **TypeScript** | **Python** | **Java** | **C++**
 
 #### **Frameworks & Libraries**  
 - **React** | **React Native** | **Redux** | **Node.js**
