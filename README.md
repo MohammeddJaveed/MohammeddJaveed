@@ -8,7 +8,7 @@ I love solving problems with clean, efficient code while continuously learning n
 ## 🌟 About Me
 
 - 🔭 **Currently working on:**  
-  - A **E-commerce Web Application** with **.NET** and **Angular**, focusing on scalable backend and seamless mobile experience.  
+  - An **E-commerce Web Application** with **.NET** and **Angular**, focusing on scalable backend and seamless mobile experience.  
   - Enhancing app performance, integrating APIs, and improving UI/UX.  
 
 - 🌱 **Currently learning:**  
