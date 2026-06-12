@@ -25,7 +25,7 @@ I love solving problems with clean, efficient code while continuously learning n
 
 - 📫 **How to reach me:**  
   - 📧 [Email](mailto:mdjaveed9108@gmail.com)  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed)  
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-javee-/)  
   - 🐙 [GitHub](https://github.com/MohammeddJaveed)
 
 ---
