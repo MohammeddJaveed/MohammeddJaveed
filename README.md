@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mohammed Javeed  
 
-I’m a **Software Developer** passionate about building sleek, user-friendly **web** and **mobile applications** using **React**, **React Native**, **.NEt**, **Angular**.  
+I’m a **Software Developer** passionate about building sleek, user-friendly **web** and **mobile applications** using **React**, **React Native**, **.NEt**, **Angular**, **NodeJS** .  
 I love solving problems with clean, efficient code while continuously learning new technologies to level up my skills. 🚀  
 
 ---
