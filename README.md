@@ -53,10 +53,10 @@ I believe in learning in public — every repo here is a step in that journey. �
 ---
 
 ## 🏆 Certifications
-
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
 | ☁️ | **AWS Certified Solutions Architect — Associate** | Amazon Web Services |
+| 🏗️ | **HashiCorp Certified: Terraform Associate** | HashiCorp |
 
 ---
 
